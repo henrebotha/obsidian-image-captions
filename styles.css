@@ -1,4 +1,5 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+.image-caption {
+    color: var(--text-faint);
+    font-size: 0.7em;
+    text-align: center;
 }
