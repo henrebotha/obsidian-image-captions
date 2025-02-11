@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-image-captions",
-  "name": "Image captions",
-  "version": "1.0.1",
-  "minAppVersion": "0.12.0",
-  "description": "A plugin that adds features for captioning images",
-  "author": "Henré Botha",
-  "authorUrl": "https://github.com/henrebotha",
-  "isDesktopOnly": false
+	"id": "obsidian-image-captions",
+	"name": "Image captions",
+	"version": "1.0.1",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin that adds features for captioning images",
+	"author": "Henré Botha",
+	"authorUrl": "https://github.com/henrebotha",
+	"isDesktopOnly": false
 }
